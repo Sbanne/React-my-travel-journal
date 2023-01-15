@@ -1,3 +1,10 @@
+# Live demo
+  https://react-my-travel-journal.netlify.app
+  
+# Project Demo video
+  
+https://user-images.githubusercontent.com/79455689/212525404-60333cb7-5f04-4a67-a6f0-2bd7c36afcb5.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
