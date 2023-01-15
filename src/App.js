@@ -6,13 +6,7 @@ function App() {
   const dataElement = Data.map(item => {
     return (
       <Main
-        title={item.title}
-        location={item.location}
-        googleMap={item.googleMapsUrl}
-        startDate={item.startDate}
-        endDate={item.endDate}
-        description={item.description}
-        image={item.imageUrl}
+        item={item}
       />
     )
   })
